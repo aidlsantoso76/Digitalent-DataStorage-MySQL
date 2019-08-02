@@ -1,6 +1,6 @@
 <?php
 
-$server = "localhost";
+$server = "127.0.0.1";
 $user = "root";
 $password = "root";
 $nama_database = "pendaftaran_siswa";
@@ -12,4 +12,3 @@ if( !$db ){
 }
 
 ?>
-
